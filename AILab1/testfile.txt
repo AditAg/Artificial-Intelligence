@@ -1,0 +1,9 @@
+move	VERB
+the	DET
+yellow	ADJ	
+box	NOUN
+besides	PROPN
+blue	ADJ
+cone	NOUN
+.	PUNCT
+
