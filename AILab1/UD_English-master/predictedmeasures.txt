@@ -1,0 +1,7 @@
+('Average accuracy:', 0.9918477751317295)
+('Microprecision:', 0.9307060886197004)
+('Microrecall:', 0.9307060886197004)
+('Microfscore:', 0.9307060886197004)
+('Macroprecision:', 0.9167868170687602)
+('Macrorecall:', 0.8925977627667889)
+('Macrofscore:', 0.9045306022493418)
