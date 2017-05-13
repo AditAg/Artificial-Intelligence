@@ -1,0 +1,43 @@
+file1=open('predictedmeasuresdev.txt','r')
+X=file1.read()
+file1.close()
+Y=X.strip().split('\n')
+try:
+	file2=open('finalpredictedmeasure.txt','r')
+	X=file2.read()
+	file2.close()
+except:
+	file2=open('finalpredictedmeasure.txt','w')
+	file2.write(str(float(0)))
+	file2.close()
+	file2=open('finalpredictedmeasure.txt','r')
+	X=file2.read()
+	file2.close()
+try:
+	file3=open('predictedt.txt','r')
+	A=file3.read()
+	file3.close()
+except:
+	file3=open('predictedt.txt','w')
+	file3.write(str(2))
+	file3.close()
+	file3=open('predictedt.txt','r')
+	A=file3.read()
+	file3.close()
+file2=open('finalpredictedmeasure.txt','w+')
+file4=open('predictedt.txt','w+')
+print("\n")
+if(len(X)==0):
+	file2.write(str(float(0)))
+	file4.write(str(2))
+else:
+	if(float(Y[7])>float(X)):
+		file4.write(Y[0])
+		file2.write(Y[7])
+	else:
+		file2.write(X)
+		file4.write(A)
+file2.close()
+file4.close()
+
+
