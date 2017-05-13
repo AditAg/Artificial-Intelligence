@@ -1,0 +1,4 @@
+gave,Ram,.,book,Mohan,library,
+book,a,
+Mohan,to,
+library,in,the,

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Ram)) (VP (VBD gave) (NP (DT a) (NN book)) (PP (TO to) (NP (NNP Mohan))) (PP (IN in) (NP (DT the) (NN library)))) (. .)))
