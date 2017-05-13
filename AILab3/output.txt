@@ -1,0 +1,40 @@
+[	PUNCT
+this	PRON
+killing	VERB
+of	ADP
+a	DET
+respected	ADJ
+cleric	NOUN
+will	AUX
+be	AUX
+causing	VERB
+us	PRON
+trouble	NOUN
+for	ADP
+years	NOUN
+to	PART
+come	VERB
+.	PUNCT
+]	PUNCT
+
+there	PRON
+were	VERB
+2	NUM
+officials	NOUN
+from	ADP
+the	DET
+ministry	PROPN
+who	PRON
+were	AUX
+indulged	VERB
+in	ADP
+some	DET
+crime	NOUN
+.	PUNCT
+
+the	DET
+dog	NOUN
+is	AUX
+running	VERB
+.	PUNCT
+
