@@ -1,0 +1,8 @@
+Put	B-VP	
+the	B-NP	
+blue	I-NP	
+cylinder	I-NP	
+on	B-PP	
+the 	B-NP	
+cube	I-NP	
+
